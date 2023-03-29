@@ -16,9 +16,9 @@ class Me(Human):
   def __init__(self):
     super().__init__("Mahdi Ramezani", "Boy", 21)
     self.love = "Choco"
-    self.job = "Data Science" 
+    self.job = "Backend Developer" 
     self.hopeful = True
-    self.intrests = ["Python", "ML", "Graphic Design", "Food"]
+    self.intrests = ["Python", "ML", "Flutter", "Open-Cv"]
 
 
 
