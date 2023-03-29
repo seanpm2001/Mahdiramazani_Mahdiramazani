@@ -14,7 +14,7 @@
 # What am I?
 class Me(Human):
   def __init__(self):
-    super().__init__("Asal Delkhosh", "Girl", 22)
+    super().__init__("Mahdi Ramezani", "Boy", 21)
     self.love = "Choco"
     self.job = "Data Science" 
     self.hopeful = True
