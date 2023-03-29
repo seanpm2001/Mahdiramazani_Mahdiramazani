@@ -10,7 +10,34 @@
   <img src="https://skillicons.dev/icons?i=react,flutter" alt="skills planning to learn logos">
 </div>
 
+```python
+# What am I?
+class Me(Human):
+  def __init__(self):
+    super().__init__("Asal Delkhosh", "Girl", 22)
+    self.love = "Choco"
+    self.job = "Data Science" 
+    self.hopeful = True
+    self.intrests = ["Python", "ML", "Graphic Design", "Food"]
 
+
+
+# start life program
+if __name__ == "__main__":
+  # create instance of me
+  me = Me()
+  # life loop
+  while me.is_alive():
+    me.work_hard()
+    
+    if me.disappointed() or me.tired():
+      me.see_my_love()
+    
+    me.eat()
+    me.sleep()
+    me.eat_again()
+
+```
 
 <p align="center">
 <img src="assests/loficity.gif" alt="Lofi Nightlife city scene" />
